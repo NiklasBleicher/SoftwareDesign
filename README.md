@@ -1,3 +1,3 @@
-#Software Design Praktikum WS19/20 
+# Software Design Praktikum WS19/20 
 :sparkles:
 :sparkles:
