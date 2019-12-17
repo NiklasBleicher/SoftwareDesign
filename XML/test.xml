@@ -1,0 +1,18 @@
+<Catalog>
+    <Question type="yes/no">
+        <text>The Speicher is the Highest Students Bar in Germany</text>
+        <answer>Yes</answer>
+        <points>10</points>
+    </Question>
+    
+    <Question type="choice">
+        <text>How many Students are studying in Furtwangen?</text>
+        <answer>
+            <option1 return="false">1200</option1>
+            <option2 return="false">9000</option2>
+            <option3 return="false">3500</option3>
+            <option4 return="true">6500</option4>
+        </answer>
+        <points>20</points>
+    </Question>
+</Catalog>
