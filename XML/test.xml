@@ -8,10 +8,10 @@
     <Question type="choice">
         <text>How many Students are studying in Furtwangen?</text>
         <answer>
-            <option1 return="false">1200</option1>
-            <option2 return="false">9000</option2>
-            <option3 return="false">3500</option3>
-            <option4 return="true">6500</option4>
+            <option return="false">1200</option1>
+            <option return="false">9000</option2>
+            <option return="false">3500</option3>
+            <option return="true">6500</option4>
         </answer>
         <points>20</points>
     </Question>
